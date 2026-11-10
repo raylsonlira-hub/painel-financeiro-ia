@@ -58,5 +58,5 @@ O app foi feito para rodar publicado no Claude, que fornece o login e o banco de
 
 ## Autor
 
-**Raylson Lira**: [LinkedIn](
+**Raylson Lira**: [LinkedIn]
 (https://www.linkedin.com/in/raylson-sousa-49bb9115a)
